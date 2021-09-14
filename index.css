@@ -1,0 +1,45 @@
+body {
+    /* background-color: palegreen; */
+    /* background-color: rgb(167, 112, 64);
+    background-color: #746323; */
+}
+
+p {
+    color: red;
+}
+
+.yellow-text {
+    color: yellow;
+    font-weight: 100;
+}
+
+#site-title {
+    text-decoration: underline line-through;
+    text-align: center;
+}
+
+img {
+    width: 300px;
+    display: block;
+    /* margin-left: auto;
+    margin-right: auto; */
+    margin: 0 auto;
+}
+
+header {
+    border: solid 1px orange;
+}
+
+main {
+    border: solid 1px orange;
+    display: flex;
+    flex-direction: row;
+}
+
+aside {
+    border: solid 1px orange;
+}
+
+footer {
+    border: solid 1px orange;
+}
